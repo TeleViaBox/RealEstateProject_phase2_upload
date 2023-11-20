@@ -1,4 +1,14 @@
+# references:
+- https://react-bootstrap.netlify.app/docs/forms/overview/
+- https://react-bootstrap.netlify.app/docs/
 
+- https://forum.openzeppelin.com/t/swap-erc20-tokens-from-erc721/19424
+- https://docs.openzeppelin.com/contracts/4.x/erc20
+- https://docs.openzeppelin.com/contracts/3.x/erc1155
+- https://docs.openzeppelin.com/contracts/3.x/erc721
+
+
+# image: credit to these image websites
 After first try of beautifying:
 ![Alt text](image.png)
 
